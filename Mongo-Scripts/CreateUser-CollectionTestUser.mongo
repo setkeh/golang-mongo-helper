@@ -1,0 +1,16 @@
+/*db.users.insertOne( {
+    Username: "Testuser",
+    Password: "TestPassword", 
+    Email: "Email@sometestdomain.com",
+    Firstname: "That",
+    Lastname: "Guy"
+  } );*/
+
+
+  db.users.insertOne( {
+    Username: "Testuser1",
+    Password: "TestPassword", 
+    Email: "Email@sometestdomain.com",
+    Firstname: "That Other",
+    Lastname: "Guy"
+  } );
