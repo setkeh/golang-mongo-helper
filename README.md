@@ -44,7 +44,7 @@ dbconf := mongo.Config{
 ```
 
 ##### Running a Query
-````
+```
 query := mongo.Query{
 		Collection: "users",
 		QueryKey:   "Username",
