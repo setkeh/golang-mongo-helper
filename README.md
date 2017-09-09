@@ -56,7 +56,7 @@ query := mongo.Query{
 		log.Fatal(err)
 	}
 	fmt.Println(result)
-  ```
+```
 
 
 TODO:
